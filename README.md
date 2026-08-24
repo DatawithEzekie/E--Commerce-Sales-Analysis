@@ -1,6 +1,7 @@
 # E--Commerce-Sales-Analysis
 # Project Overview 
- Every transactions tells a story.
+ Every transactions tells a story
+ 
   Behind every purchase is a customer decision, a product demand pattern, and an opportunities for a business to grow.
   <img width="624" height="371" alt="Screenshot 2026-08-20 153843" src="https://github.com/user-attachments/assets/9ccee6c2-4476-465c-b0ef-55c32e41f1d8" />
 
