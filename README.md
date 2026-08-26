@@ -3,6 +3,7 @@
  Every transactions tells a story
  
   Behind every purchase is a customer decision, a product demand pattern, and an opportunities for a business to grow.
+  
   <img width="624" height="371" alt="Screenshot 2026-08-20 153843" src="https://github.com/user-attachments/assets/9ccee6c2-4476-465c-b0ef-55c32e41f1d8" /> 
 
 
@@ -68,6 +69,8 @@ The cleaning process included:
 - Total Revenue
 - Total Customer 
 - AVG Unit price
+- Average Order Value
+- Total Quantity Sold 
 
 # Dashboard features 
 # 1. Sales Trend Analysis 
@@ -83,6 +86,6 @@ The cleaning process included:
 
 # Key Findings 
 
-# 1. 
-- Total Quantity Sold 
+# 1. Revenue Generation 
+  The business generated £9.75M in revenue from approximately 4,000 customers and 25,900 orders. with an Average Order Value of £376.36, customer spent approximately £376 per transaction.  
  
