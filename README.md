@@ -113,17 +113,17 @@
 
       The is the company's dominant market, contributing approximately 87% of total revenue. Germany and France represent        the next strongest markets, although their performance differs considerably. Germany is showing strong growth, while       France has experienced a decline in revenue. Smaller markets such as the Netherlands are also showing encouraging          growth. Although the UK's strong performance demonstrates a well-established customer base, the high concentration         of revenue presents a geographical dependency risk. Expanding customer acquisition and sales activity in growing           international markets could help diversify revenue and create additional growth opportunities.  
 
-# 6.  Revenue Peaked late-year period 
+# 6. Revenue Peaked late-year period 
 
        Sales reached their peak in November, indicating a period of strong customer purchasing activity and revenue               generation. However, sales experienced a declined in December, suggesting a reduction in purchasing activity               following the November peak. 
        The November surge may indicate increased seasonal demand or stronger customer engagement during the period. The           decline in December should be investigated further to determined whether it was driven by reduced order volume,            changes in customer purchasing behavior, product availability, or other seasonal factors.  
 
 
- #    Recommendation
+ #   Recommendation
 
       The business should leverage the factors driving November's sales peak while implementing targeted retention,              promotional, and inventory strategies to minimize the December decline. At the same time, expanding high-potential         international markets can help diversify revenue and reduce dependance on the dominant market. 
 
- #    Author 
+ #   Author 
       Ajibade Segun Ezekiel 
       Data Analyst | Business Intelligence | Data Visualization  
 
