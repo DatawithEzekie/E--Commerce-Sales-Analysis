@@ -4,7 +4,8 @@
  
  Behind every purchase is a customer decision, a product demand pattern, and an opportunities for a business to grow.
 
-  <img width="628" height="376" alt="Screenshot 2026-08-26 200335" src="https://github.com/user-     attachments/assets/25b74348-0184-42bf-bf1a-8f480d06fc51" />
+ <img width="628" height="376" alt="Screenshot 2026-08-26 200335" src="https://github.com/user-attachments/assets/3e0fc8a9-3bac-4910-8e86-6286eb038d46" />
+
 
 
 
@@ -105,24 +106,23 @@
 
 #  4. Revenue Distributed Across Products 
      
-    Top revenue- generated product:
-    85123A- £100k   85099B- £92k  23084- £67k  84879- £59k  22197- £51k 
+   Top revenue- generated product:
+   85123A- £100k   85099B- £92k  23084- £67k  84879- £59k  22197- £51k 
 
-    The top performing StockCode generated 100K in revenue, closely followed by the second- highest performer at 92K.          The relatively small 8K gap between the two leading products indicates comparable revenue performance. However,            revenue drops to 51K by the fifth-ranked product, highlighting a wider performance gap among the lower positions in        the Top 5. the business should investigate the factors driving the strong performance of the leading StockCodes and        determine whether these strategies can be replicated across other products.
+   The top performing StockCode generated 100K in revenue, closely followed by the second- highest performer at 92K.          The relatively small 8K gap between the two leading products indicates comparable revenue performance. However,            revenue drops to 51K by the fifth-ranked product, highlighting a wider performance gap among the lower positions in        the Top 5. the business should investigate the factors driving the strong performance of the leading StockCodes and        determine whether these strategies can be replicated across other products.
 
-# 5. United Kingdom contributed 87% of Total Revenue
+# 5.United Kingdom contributed 87% of Total Revenue
 
-    The is the company's dominant market, contributing approximately 87% of total revenue. Germany and France represent        the next strongest markets, although their performance differs considerably. Germany is showing strong growth, while       France has experienced a decline in revenue. Smaller markets such as the Netherlands are also showing encouraging          growth. Although the UK's strong performance demonstrates a well-established customer base, the high concentration         of revenue presents a geographical dependency risk. Expanding customer acquisition and sales activity in growing           international markets could help diversify revenue and create additional growth opportunities.  
+  The is the company's dominant market, contributing approximately 87% of total revenue. Germany and France represent        the next strongest markets, although their performance differs considerably. Germany is showing strong growth, while       France has experienced a decline in revenue. Smaller markets such as the Netherlands are also showing encouraging          growth. Although the UK's strong performance demonstrates a well-established customer base, the high concentration         of revenue presents a geographical dependency risk. Expanding customer acquisition and sales activity in growing           international markets could help diversify revenue and create additional growth opportunities.  
 
-# 6. Revenue Peaked late-year period 
+# 6.Revenue Peaked late-year period 
 
-    Sales reached their peak in November, indicating a period of strong customer purchasing activity and revenue               generation. However, sales experienced a declined in December, suggesting a reduction in purchasing activity               following the November peak. 
-    The November surge may indicate increased seasonal demand or stronger customer engagement during the period. The           decline in December should be investigated further to determined whether it was driven by reduced order volume,            changes in customer purchasing behavior, product availability, or other seasonal factors.  
+  Sales reached their peak in November, indicating a period of strong customer purchasing activity and revenue               generation. However, sales experienced a declined in December, suggesting a reduction in purchasing activity               following the November peak. 
+  The November surge may indicate increased seasonal demand or stronger customer engagement during the period. The           decline in December should be investigated further to determined whether it was driven by reduced order volume,            changes in customer purchasing behavior, product availability, or other seasonal factors.  
 
+ # Recommendation
 
- #  Recommendation
-
-    The business should leverage the factors driving November's sales peak while implementing targeted retention,              promotional, and inventory strategies to minimize the December decline. At the same time, expanding high-potential         international markets can help diversify revenue and reduce dependance on the dominant market. 
+  The business should leverage the factors driving November's sales peak while implementing targeted retention,              promotional, and inventory strategies to minimize the December decline. At the same time, expanding high-potential         international markets can help diversify revenue and reduce dependance on the dominant market. 
 
  #  Author 
     Ajibade Segun Ezekiel 
