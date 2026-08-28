@@ -3,8 +3,9 @@
  Every transactions tells a story
  
   Behind every purchase is a customer decision, a product demand pattern, and an opportunities for a business to grow.
-  
-  <img width="624" height="371" alt="Screenshot 2026-08-20 153843" src="https://github.com/user-attachments/assets/9ccee6c2-4476-465c-b0ef-55c32e41f1d8" /> 
+
+  <img width="628" height="376" alt="Screenshot 2026-08-26 200335" src="https://github.com/user-attachments/assets/25b74348-0184-42bf-bf1a-8f480d06fc51" />
+
 
 
 # Project Overview
