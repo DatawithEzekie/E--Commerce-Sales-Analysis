@@ -124,8 +124,8 @@
 
   The business should leverage the factors driving November's sales peak while implementing targeted retention,              promotional, and inventory strategies to minimize the December decline. At the same time, expanding high-potential         international markets can help diversify revenue and reduce dependance on the dominant market. 
 
- #  Author 
-    Ajibade Segun Ezekiel 
-    Data Analyst | Business Intelligence | Data Visualization  
+ # Author 
+   Ajibade Segun Ezekiel 
+   Data Analyst | Business Intelligence | Data Visualization  
 
       
