@@ -1,130 +1,131 @@
 # E--Commerce-Sales-Analysis
 
-  Every transactions tells a story
+ Every transactions tells a story
  
-   Behind every purchase is a customer decision, a product demand pattern, and an opportunities for a business to grow.
+ Behind every purchase is a customer decision, a product demand pattern, and an opportunities for a business to grow.
 
-   <img width="628" height="376" alt="Screenshot 2026-08-26 200335" src="https://github.com/user-     attachments/assets/25b74348-0184-42bf-bf1a-8f480d06fc51" />
+  <img width="628" height="376" alt="Screenshot 2026-08-26 200335" src="https://github.com/user-     attachments/assets/25b74348-0184-42bf-bf1a-8f480d06fc51" />
 
 
 
 #  Project Overview
 
   
-    This project analyses E-Commerce sales performance dataset to understand how customers purchase, which product drives      sales, how revenue changes over time, and where the business can identify opportunities for improvement. 
+  This project analyses E-Commerce sales performance dataset to understand how customers purchase, which product drives      sales, how revenue changes over time, and where the business can identify opportunities for improvement. 
 
-    The objectives was not simply to build a dashboard, but to transform raw transactional data into clear, actionable         business insights that could support better decision-making.
+  The objectives was not simply to build a dashboard, but to transform raw transactional data into clear, actionable         business insights that could support better decision-making.
 
 
 #  The Business Problem
 
-    Imagine managing an online retail business with thousands of transactions.
+  Imagine managing an online retail business with thousands of transactions.
 
-    You know how much was sold, but several important questions remain unanswered:
+  You know how much was sold, but several important questions remain unanswered:
  
-  - Which Stockcode are driving sales?
-  - What Stockcode are customers purchasing most frequently? 
-  - Which countries generate the most revenue? 
-  - When does sales performance peak?
-  - Which Stockcode contributes the most to revenue?
-  - Where are the opportunities for growth?
+- Which Stockcode are driving sales?
+- What Stockcode are customers purchasing most frequently? 
+- Which countries generate the most revenue? 
+- When does sales performance peak?
+- Which Stockcode contributes the most to revenue?
+- Where are the opportunities for growth?
 
 #  Objectives 
-  - Analyze overall sales performance 
-  - identify top- performing Stockcode  
-  - Measure profitability across countries
-  - Provide data- driven recommendations for business growth
+- Analyze overall sales performance 
+- identify top- performing Stockcode  
+- Measure profitability across countries
+- Provide data- driven recommendations for business growth
 
 #  Tools Used 
-  - Power BI (Data cleaning)
-  - Power BI (Data Extraction and Transformation)
-  - Power BI (Dashboard Development)
-  - GitHub/ LinkedIn (Project Documentation) 
+- Power BI (Data cleaning)
+- Power BI (Data Extraction and Transformation)
+- Power BI (Dashboard Development)
+- GitHub/ LinkedIn (Project Documentation) 
 
 #  Understanding the Data 
 
-   The dataset contains transactional information covering customer purchases and product sales.
+  The dataset contains transactional information covering customer purchases and product sales.
 
-   Key fields include:
-   - InvoiceNo
-   - Stockcode
-   - Quantity
-   - InvoiceDate
-   - Unitprice
-   - CustomerID
-   - Country
-   One important aspect of this dataset is that Stockcode represents the product identifier.
+  Key fields include:
+  - InvoiceNo
+  - Stockcode
+  - Quantity
+  - InvoiceDate
+  - Unitprice
+  - CustomerID
+  - Country
+  One important aspect of this dataset is that Stockcode represents the product identifier.
 
 #  Data Cleaning & Preparation 
 
-     Before analyzing the data, the dataset was carefully prepared to improve accuracy and consistency.
+  Before analyzing the data, the dataset was carefully prepared to improve accuracy and consistency.
 
-    The cleaning process included: 
-   - Identifying Missing Value
-   - Checking Duplicate Records
-   - Standardized Data Formats
-   - Checking data type
-   - Data Validation Consistency
+  The cleaning process included: 
+  - Identifying Missing Value
+  - Checking Duplicate Records
+  - Standardized Data Formats
+  - Checking data type
+  - Data Validation Consistency
 
 #  Key Performance Indicator (KPIS)
-    - Total Revenue
-    - Total Customer 
-    - AVG Unit price
-    - Average Order Value
-    - Total Quantity Sold 
+  - Total Revenue
+  - Total Customer 
+  - AVG Unit price
+  - Average Order Value
+  - Total Quantity Sold 
 
 # Dashboard features 
+
 # 1. Sales Trend Analysis 
-    - Revenue overtime
-    - Monthly sales performance
-    - Peak and low sales periods
+  - Revenue overtime
+  - Monthly sales performance
+  - Peak and low sales periods
 
 # 2. Product Performance 
-    - Top selling products
-    - Revenue contributed by product
-    - Quantity sold by product
-    - Revenue generated by countries
+  - Top selling products
+  - Revenue contributed by product
+  - Quantity sold by product
+  - Revenue generated by countries
 
 #   Key Findings And Business Insights
 
 # 1. Revenue Generation 
     
-     The business generated £9.75M in revenue from approximately 4,000 customers and 25,900 orders. with an Average Order       Value of £376.36, customer spent approximately £376 per transaction.  
+  The business generated £9.75M in revenue from approximately 4,000 customers and 25,900 orders. with an Average Order       Value of £376.36, customer spent approximately £376 per transaction.  
 
 # 2. Customer Purchasing Frequency and Retention
     
-     Approximately 4K customers generated 25.9K orders, averaging 5.90 orders per customer. This indicates strong repeat        purchasing activity and suggests that customer retention could be a key contributor to revenue performance. 
+  Approximately 4K customers generated 25.9K orders, averaging 5.90 orders per customer. This indicates strong repeat        purchasing activity and suggests that customer retention could be a key contributor to revenue performance. 
 
 # 3. 22197 And 85099B Stockcode Lead Sales Volume 
-      Top Stockcodes by quantity sold:
+  Top Stockcodes by quantity sold:
       
-      22197 - 56k units  85099B 47k units  85123A - 39k units  84879 - 36k units  21212 - 36k 
+  22197 - 56k units  85099B 47k units  85123A - 39k units  84879 - 36k units  21212 - 36k 
       
-     Stockcode 22197 was the most purchased product, recording 56K units sold, followed by 85099B with 47K units and            85123A with 39K units. Despite having the highest purchased volume, 22197 ranked Fifth among the top revenue-              generating products, highlighting a gap between sales volume and revenue contribution. In contrast, 85123A generated       the highest revenue despites ranking third in quantity, suggesting that revenue performance is influenced not only by      volume but also by the value generated per unit. 
+  Stockcode 22197 was the most purchased product, recording 56K units sold, followed by 85099B with 47K units and            85123A with 39K units. Despite having the highest purchased volume, 22197 ranked Fifth among the top revenue-              generating products, highlighting a gap between sales volume and revenue contribution. In contrast, 85123A generated       the highest revenue despites ranking third in quantity, suggesting that revenue performance is influenced not only by      volume but also by the value generated per unit. 
 
 #  4. Revenue Distributed Across Products 
      
-      Top revenue- generated product:
-      85123A- £100k   85099B- £92k  23084- £67k  84879- £59k  22197- £51k 
+    Top revenue- generated product:
+    85123A- £100k   85099B- £92k  23084- £67k  84879- £59k  22197- £51k 
 
-      The top performing StockCode generated 100K in revenue, closely followed by the second- highest performer at 92K.          The relatively small 8K gap between the two leading products indicates comparable revenue performance. However,            revenue drops to 51K by the fifth-ranked product, highlighting a wider performance gap among the lower positions in        the Top 5. the business should investigate the factors driving the strong performance of the leading StockCodes and        determine whether these strategies can be replicated across other products.
+    The top performing StockCode generated 100K in revenue, closely followed by the second- highest performer at 92K.          The relatively small 8K gap between the two leading products indicates comparable revenue performance. However,            revenue drops to 51K by the fifth-ranked product, highlighting a wider performance gap among the lower positions in        the Top 5. the business should investigate the factors driving the strong performance of the leading StockCodes and        determine whether these strategies can be replicated across other products.
 
-# 5.  United Kingdom contributed 87% of Total Revenue
+# 5. United Kingdom contributed 87% of Total Revenue
 
-      The is the company's dominant market, contributing approximately 87% of total revenue. Germany and France represent        the next strongest markets, although their performance differs considerably. Germany is showing strong growth, while       France has experienced a decline in revenue. Smaller markets such as the Netherlands are also showing encouraging          growth. Although the UK's strong performance demonstrates a well-established customer base, the high concentration         of revenue presents a geographical dependency risk. Expanding customer acquisition and sales activity in growing           international markets could help diversify revenue and create additional growth opportunities.  
+    The is the company's dominant market, contributing approximately 87% of total revenue. Germany and France represent        the next strongest markets, although their performance differs considerably. Germany is showing strong growth, while       France has experienced a decline in revenue. Smaller markets such as the Netherlands are also showing encouraging          growth. Although the UK's strong performance demonstrates a well-established customer base, the high concentration         of revenue presents a geographical dependency risk. Expanding customer acquisition and sales activity in growing           international markets could help diversify revenue and create additional growth opportunities.  
 
 # 6. Revenue Peaked late-year period 
 
-       Sales reached their peak in November, indicating a period of strong customer purchasing activity and revenue               generation. However, sales experienced a declined in December, suggesting a reduction in purchasing activity               following the November peak. 
-       The November surge may indicate increased seasonal demand or stronger customer engagement during the period. The           decline in December should be investigated further to determined whether it was driven by reduced order volume,            changes in customer purchasing behavior, product availability, or other seasonal factors.  
+    Sales reached their peak in November, indicating a period of strong customer purchasing activity and revenue               generation. However, sales experienced a declined in December, suggesting a reduction in purchasing activity               following the November peak. 
+    The November surge may indicate increased seasonal demand or stronger customer engagement during the period. The           decline in December should be investigated further to determined whether it was driven by reduced order volume,            changes in customer purchasing behavior, product availability, or other seasonal factors.  
 
 
- #   Recommendation
+ #  Recommendation
 
-      The business should leverage the factors driving November's sales peak while implementing targeted retention,              promotional, and inventory strategies to minimize the December decline. At the same time, expanding high-potential         international markets can help diversify revenue and reduce dependance on the dominant market. 
+    The business should leverage the factors driving November's sales peak while implementing targeted retention,              promotional, and inventory strategies to minimize the December decline. At the same time, expanding high-potential         international markets can help diversify revenue and reduce dependance on the dominant market. 
 
- #   Author 
-      Ajibade Segun Ezekiel 
-      Data Analyst | Business Intelligence | Data Visualization  
+ #  Author 
+    Ajibade Segun Ezekiel 
+    Data Analyst | Business Intelligence | Data Visualization  
 
       
